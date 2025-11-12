@@ -1,0 +1,22 @@
+body {
+    background-color: saddlebrown;
+}
+
+.sweden-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+    color: white;
+}
+
+.sweden-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stockholm-1 {
+    max-width: 40%;
+}

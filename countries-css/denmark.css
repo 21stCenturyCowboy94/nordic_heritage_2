@@ -1,0 +1,12 @@
+body {
+    background-color: saddlebrown;
+}
+
+.denmark-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+    color: white;
+}
