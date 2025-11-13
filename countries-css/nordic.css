@@ -109,3 +109,14 @@ h3 {
     border-color: aqua;
     border-width: 10px;
 }
+
+ .map-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 50%;
+    border-radius: 25px;
+    border: solid;
+    border-color: aqua;
+    border-width: 10px;
+}

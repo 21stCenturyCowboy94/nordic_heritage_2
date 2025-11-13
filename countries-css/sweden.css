@@ -19,4 +19,8 @@ body {
 
 .stockholm-1 {
     max-width: 40%;
+    border-radius: 25px;
+    border: solid;
+    border-color: aqua;
+    border-width: 10px;
 }
