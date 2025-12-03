@@ -1,4 +1,6 @@
 const questions = [
+
+  // History questions
 {
     question: "What was the name of the Vikings who came from Scandinavia?",
     options: ["Northmen", "Norsemen", "Nordicmen"],
@@ -78,8 +80,17 @@ const questions = [
     answer: "800,000",
 },
 
+// Immigration questions
 
+{
+    question: "Which US State has the most Nordic Heritage?",
+    options: ["Oregon", "Minnesota", "Nevada", "Idaho"],
+    answer: "Minnesota",
+},
 
+{
+    question: ""
+},
 
 ];
 
